@@ -14,6 +14,8 @@ Learn more at [![Portfolio](http://img.shields.io/badge/-My%20Portfolio-ffffff?s
 
 > [![LinkedIn](http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white)][linkedin]
 [![Twitter](http://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)][twitter]
+[![Mail](https://img.shields.io/badge/-Email-0072c6?style=flat&logo=microsoft&logoColor=white)][mail]
+[![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][instagram]
 
 ---
 
@@ -46,3 +48,5 @@ Github Profile Readme Inspired by [@Souravdey777](https://github.com/Souravdey77
 [mail]:mailto:daqichen@live.unc.edu
 [twitter]: https://twitter.com/chen_daqi
 [linkedin]: https://www.linkedin.com/in/daqi-jennifer-chen
+[instagram]: https://www.instagram.com/jenniferchen_d/
+
