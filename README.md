@@ -6,8 +6,8 @@ Learn more at [![Portfolio](http://img.shields.io/badge/-My%20Portfolio-ffffff?s
 
 ---
 
-- #### 🌱 I’m currently learning `GraphQL` 
-- #### 🧘‍♀️ I'm working towards `an Elbow Headstand`
+- #### 🌱 I’m currently learning `NextJS` 
+- #### 🧘‍♀️ I'm working towards `Chin Stand & Headstand`
 - #### 💬 Ask me about `Origami`
 - #### 😄 Pronouns: `she/her/hers`
 - #### 📫 How to reach me: 
@@ -19,7 +19,7 @@ Learn more at [![Portfolio](http://img.shields.io/badge/-My%20Portfolio-ffffff?s
 
 ---
 
-![Profile views](https://gpvc.arturio.dev/daqichen) <img src="https://img.shields.io/github/followers/daqichen?label=Follow&color=64acff" style=" float:left, margin-right:10px" /> 
+<img src="https://img.shields.io/github/followers/daqichen?label=Follow&color=64acff" style=" float:left, margin-right:10px" /> 
 
 
 <!--
@@ -45,7 +45,7 @@ Github Profile Readme Inspired by [@Souravdey777](https://github.com/Souravdey77
 
 
 [website]: https://daqichen.github.io/
-[mail]:mailto:daqichen@live.unc.edu
+[mail]:mailto:daqichen@alumni.unc.edu
 [twitter]: https://twitter.com/chen_daqi
 [linkedin]: https://www.linkedin.com/in/daqi-jennifer-chen
 [instagram]: https://www.instagram.com/jenniferchen_d/
