@@ -7,8 +7,8 @@ Learn more at [![Portfolio](http://img.shields.io/badge/-My%20Portfolio-ffffff?s
 ---
 
 - #### 🌱 I’m currently learning `NextJS` 
-- #### 🧘‍♀️ I'm working towards `Chin Stand & Headstand`
-- #### 💬 Ask me about `Origami`
+- #### 🧘‍♀️ I'm working towards `Handstand`
+- #### 💬 Ask me about `Origami & Pop-up Cards`
 - #### 😄 Pronouns: `she/her/hers`
 - #### 📫 How to reach me: 
 
